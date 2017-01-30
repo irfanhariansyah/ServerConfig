@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+wordpress,997,1822,1797,2075,2140,3409,485,5315,0.000%,16.33114,334.93,6.08
+TOTAL,997,1822,1797,2075,2140,3409,485,5315,0.000%,16.33114,334.93,6.08
