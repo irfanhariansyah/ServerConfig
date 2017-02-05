@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jmeterTestPlan version="1.2" properties="3.1" jmeter="3.1 r1770033">
   <hashTree>
-    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Before" enabled="true">
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="After" enabled="true">
       <stringProp name="TestPlan.comments"></stringProp>
       <boolProp name="TestPlan.functional_mode">false</boolProp>
       <boolProp name="TestPlan.serialize_threadgroups">true</boolProp>
@@ -137,7 +137,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename">/home/mri/IRFAN/After/100user.csv</stringProp>
+            <stringProp name="filename">/home/toshiba/IRFAN/After/100user.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
